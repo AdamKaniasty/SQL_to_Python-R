@@ -1,1 +1,5 @@
 .ipynb_checkpoints
+travel_exchange_com
+*.db
+*.pkl.gz
+Adam*

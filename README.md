@@ -4,6 +4,7 @@
 * Using base functions of R language
 * Using dplyr library
 * Using data.table library  
+* Using Python and pandas library with sqlite3 library for database connection  
 
 Then using comparator function making sure that all outputs are the same (possibly with the accuracy of row permutation where no specific order is given) 
 
