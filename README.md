@@ -1,5 +1,5 @@
 ## Project Description
- Converting 5 given sql queries into R scripts in four equivalent ways:
+ Converting 5 given sql queries into R scripts in five equivalent ways:
 * Using sqldf library
 * Using base functions of R language
 * Using dplyr library
